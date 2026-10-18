@@ -1,0 +1,11 @@
+# Editor/OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python local server/cache (if used)
+__pycache__/
+*.py[cod]
+
+# Local/private images or notes (add only assets you intend to publish)

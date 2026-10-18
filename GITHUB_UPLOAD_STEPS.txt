@@ -1,0 +1,15 @@
+GITHUB PUBLICATION QUICK STEPS
+
+1. Go to https://github.com/new
+2. Repository name: islamabad-schools-navigation
+3. Choose Public. Click Create repository.
+4. Click 'uploading an existing file' (or Add file > Upload files).
+5. Upload index.html, README.md, LICENSE, and .gitignore from this folder.
+6. Click Commit changes.
+7. Open Settings > Pages.
+8. Under Build and deployment choose 'Deploy from a branch'.
+9. Branch: main; folder: /(root); click Save.
+10. Wait for GitHub Pages to publish, then copy the URL shown under Settings > Pages.
+
+Note: The profile displays the name Ahmad Hassan and ARID Number 24-ARID-2197. These details will be public when you publish the site.
+Review the school locations and coordinates before relying on them for navigation.
